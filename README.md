@@ -1,4 +1,4 @@
-# PHOTOSHOP--
+# PHOTOSHOP--Batch invitation jsx
 PHOTOSHOP-批量邀请函脚本
 
 
