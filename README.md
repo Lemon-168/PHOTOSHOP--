@@ -1,0 +1,2 @@
+# PHOTOSHOP--
+PHOTOSHOP-批量邀请函脚本
